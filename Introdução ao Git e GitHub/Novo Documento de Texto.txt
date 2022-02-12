@@ -1,0 +1,27 @@
+
+Cinth@DESKTOP-MM53FFM MINGW64 /c/Worksoace
+$ git clone https://github.com/cinthiasaraiva/dio-desafio-github.git
+Cloning into 'dio-desafio-github'...
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (8/8), done.
+remote: Total 12 (delta 3), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (12/12), done.
+Resolving deltas: 100% (3/3), done.
+
+Cinth@DESKTOP-MM53FFM MINGW64 /c/Worksoace
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+Cinth@DESKTOP-MM53FFM MINGW64 /c/Worksoace
+$ cd dio-desafio-github
+
+Cinth@DESKTOP-MM53FFM MINGW64 /c/Worksoace/dio-desafio-github (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Cinth@DESKTOP-MM53FFM MINGW64 /c/Worksoace/dio-desafio-github (main)
+$
